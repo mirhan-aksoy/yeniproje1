@@ -4,5 +4,8 @@ public class GitGitup {
         System.out.println("v2 komutları");
         System.out.println("v3 komutları");
         System.out.println("v4 deneme komutları");
+        System.out.println("v4.02 deneme komutları");
+        System.out.println("v5 stash komutları");
+        System.out.println("GitGitup komutları");
     }
 }
